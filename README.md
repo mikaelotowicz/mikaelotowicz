@@ -1,6 +1,6 @@
 ### Olá 👋 Eu sou Micael Otowicz
 Formado em Análise e Desenvolvimento de Sistemas. 
-- 🔭 Atualmente estou trabalhando com desenvolvimento Desktop e Mobile, VB6 e C#. 
+- 🔭 Atualmente trabalhando com desenvolvimento Desktop e Mobile, VB6 e C#. 
 
 ![SUAS estatísticas do github](https://github-readme-stats.vercel.app/api?username=mikaelotowicz)
 
