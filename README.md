@@ -2,7 +2,7 @@
 Formado em Análise e Desenvolvimento de Sistemas. 
 - 🔭 Atualmente trabalhando com desenvolvimento Desktop e Mobile, VB6 e C#. 
 
-![SUAS estatísticas do github](https://github-readme-stats.vercel.app/api?username=mikaelotowicz)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mikaelotowicz)
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/mikaelotowicz) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/micael-otowicz) 
